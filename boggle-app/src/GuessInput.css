@@ -1,0 +1,12 @@
+.GuessInput {
+  margin: 20px;
+}
+
+input {
+  padding: 10px;
+  font-size: 18px;
+}
+
+p {
+  color: #666;
+}

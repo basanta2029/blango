@@ -1,0 +1,14 @@
+.FoundSolutions {
+  margin: 20px;
+  text-align: left;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  font-size: 18px;
+  margin: 5px 0;
+}
